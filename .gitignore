@@ -1,0 +1,16 @@
+git init 
+git add .
+git status
+git branch 
+git branch clase02
+git checkout clase02
+git branch funcionalidad1
+git branch cambio1
+
+agregamos cambios en las ramas
+
+combinamos las ramas a clase02
+
+combinamos la ramas a la master
+
+
